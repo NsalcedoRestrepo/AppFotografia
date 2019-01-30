@@ -1,0 +1,32 @@
+[
+ {
+   "_id":1,
+   "Id_curso": 1,
+   "Id_docentes": 1
+ },
+{
+   "_id":1,
+   "Id_curso": 1,
+   "Id_docentes": 1
+ },
+{
+   "_id":2,
+   "Id_curso": 2,
+   "Id_docentes": 2
+ },
+{
+   "_id":3,
+   "Id_curso": 3,
+   "Id_docentes": 3
+ },
+{
+  "_id":4,
+   "Id_curso": 4,
+   "Id_docentes": 4
+ },
+{
+   "_id":5,
+   "Id_curso": 5,
+   "Id_docentes": 5
+ }
+]

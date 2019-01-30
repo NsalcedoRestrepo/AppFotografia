@@ -1,0 +1,27 @@
+[
+ {
+   "_id":1,
+   "Id_tematicas": 1,
+   "Id_fotografia": 1
+  },
+{
+   "_id":2,
+   "Id_tematicas": 2,
+   "Id_fotografia": 2
+  },
+{
+   "_id":3,
+   "Id_tematicas": 3,
+   "Id_fotografia": 3
+  },
+{
+   "_id":4,
+   "Id_tematicas": 4,
+   "Id_fotografia": 4
+  },
+{
+   "_id":5,
+   "Id_tematicas": 5,
+   "Id_fotografia": 5
+  }
+]

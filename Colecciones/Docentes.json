@@ -1,0 +1,37 @@
+[
+ {
+   "_id": 1,
+   "Nombre": "Fernando Henao",
+   "Numero_de _contacto": 3135149011,
+   "Estudios": "Licenciado en artes",
+   "Correo_electronico": "fernando@gmail.com"
+ },
+{
+   "_id": 2,
+   "Nombre": "Kerwin Vilmar",
+   "Numero_de _contacto": 3135149011,
+   "Estudios": "Licenciado en informática y medios audiovisuales",
+   "Correo_electronico": "fKerwin@gmail.com"
+ },
+{
+   "_id": 3,
+   "Nombre": "Huber Castro",
+   "Numero_de _contacto": 3135149011,
+   "Estudios": "Licenciado en informática y medios audiovisuales",
+   "Correo_electronico": "Uber@gmail.com"
+ },
+{
+   "_id": 4,
+   "Nombre": "Jaime Correa",
+   "Numero_de _contacto": 3135149011,
+   "Estudios": "Licenciado en informática y medios audiovisuales",
+   "Correo_electronico": "Jaime@gmail.com"
+ },
+{
+   "_id": 5,
+   "Nombre": "Jose",
+   "Numero_de _contacto": 3135149011,
+   "Estudios": "Licenciado en informática y medios audiovisuales",
+   "Correo_electronico": "jose@gmail.com"
+ }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "AppFotografia",
+  "version": "1.0.0",
+  "description": "El curso de fotografía está estructurado de la siguiente manera: primero tendrá un curso básico y un curso avanzado. El curso básico parte con la historia de la fotografía, luego teoría del color, planos y ángulos., luego tiene un curso avanzado y su primera temática es la composición, seguido de edición de fotografías, fotografía artística y por último fotografía documental",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neli,Ivan,William",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.13",
+    "npm": "^6.7.0"
+  }
+}

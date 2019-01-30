@@ -1,0 +1,14 @@
+[
+  {
+    "_Id": 1,
+    "nombre": "Fotografía básica",
+    "duracion": "30 horas",
+    "horarios": "Viernes y Sábados"
+  },
+   {
+    "_Id": 2,
+    "nombre": "Fotografía avanzada",
+    "duracion": "30 horas",
+    "horarios": "Viernes y Sábados"
+  }
+]
